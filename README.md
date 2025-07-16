@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsalan Tariq</h1>
-<h3 align="center">Senior AI & Blockchain Developer | Full Stack Engineer | Pakistan 🇵🇰</h3>
+<h3 align="center">Senior AI & Backend Developer | Full Stack Engineer | Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder Gif">
@@ -13,8 +13,6 @@
 
 🔭 **With 6+ years of experience**, I specialize in **LLMs, Generative AI, RAG pipelines, and Web3**, delivering **high-performance, scalable, and production-grade applications**.
 
----
-
 ### ⚡ AI & Machine Learning Expertise
 
 - 🤖 **LLMs & Gen AI**: GPT-4o, Claude 3.5, LLaMA 3, Mistral, Gemini, Ollama, LM Studio  
@@ -22,8 +20,6 @@
 - 🗨️ **Custom AI Bots & NLP**: AI-driven chatbots, speech-to-text, multi-agent systems  
 - 🧠 **Agentic AI & RAG**: LangChain, LlamaIndex, LangGraph, LangServe  
 - 🧾 **Vector Databases**: Pinecone, Chroma, Weaviate, Faiss  
-
----
 
 ### 💻 Tech Stack
 
