@@ -33,40 +33,6 @@
 **Cloud & DevOps**: AWS · GCP · Azure · Docker · Kubernetes · Jenkins · Nginx  
 **Blockchain/Web3**: Solidity · Smart Contracts · Ethereum · DeFi · NFT · Web3.js · Ethers.js  
 
----
-
-### 🔗 Blockchain & Web3 Projects
-
-As a **senior blockchain developer**, I’ve launched **10+ successful Web3 projects**, including:
-
-- 🖼️ **NFT Marketplace** (ERC721 standard, Auctions, Offers, Fixed Sales)
-- 💰 **DeFi Platforms** (DEX, Flash Loans, Lending, OHM forks)
-- 🎲 **NFT Ecosystems** (Staking, Breeding, Rarity, On-chain games)
-- 🌐 **Watch-to-Earn Web3 Startups**
-- 🔒 Built smart contracts optimized for gas efficiency and security
-- ⚙️ POW/POS Consensus Implementation
-
-**What you can expect working with me:**
-
-✅ Secure, audit-ready smart contracts  
-✅ Web3-native apps with excellent UX  
-✅ Strategic guidance for high-impact Web3 launches  
-
----
-
-### 🛠️ Backend Development
-
-With **8+ years of backend experience**, I’ve delivered **robust, scalable APIs and microservices** for production.
-
-**Stack Includes**:
-
-- Node.js, Nest.js, Express, TypeScript, GraphQL, REST  
-- PostgreSQL, MySQL, MongoDB  
-- DevOps with Docker, CI/CD, Nginx, Firebase, Netlify, Heroku  
-- Serverless with AWS (CloudFormation, Lambda) & GCP  
-- Blockchain integrations using Solidity, The Graph, Truffle, Hardhat, Web3.js, Ethers.js  
-
----
 
 ### 📫 Let’s Connect
 
